@@ -1,1 +1,1 @@
-# JAVA_EXP4
+# Experiment 4: To study HttpServlet and GenericServlet 
